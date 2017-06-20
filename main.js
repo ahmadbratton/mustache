@@ -17,5 +17,5 @@ app.get("/", function (req , res) {
 
 
 app.listen(3000, function () {
-  console.log("Fuck you Brice");
+  console.log("hi there");
 })
